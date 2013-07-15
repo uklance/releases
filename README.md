@@ -7,7 +7,7 @@ artifacts can be used by your dependency management tool of choice (eg [maven](h
 
 Maven Usage
 -----------
-
+Add the following to the repositories section of your ```pom.xml```
 ```xml
 <repositories>
     <repository>
